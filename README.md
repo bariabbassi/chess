@@ -1,5 +1,5 @@
-# Jeux de Dominos et Puzzle avec interface graphique
-Deux Mains pour deux types de jeux différents dans deux paquets différents.
+# :game_die: Domino Puzzle
+A set of Domino and puzzle games playable with a graphic interface
 
 ## Comment jouer aux Dominos
 - Selectionner le domino à jouer , si la pièce selectionnée ne peut pas etre joué
